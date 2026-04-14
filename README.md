@@ -60,6 +60,7 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
   <img src="https://github-readme-streak-stats.herokuapp.com?user=atifjaveid&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 
