@@ -61,17 +61,8 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atifjaveid&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
-> ⚠️ The snake will appear after you run the **GitHub Action** (see setup steps below)
 
 <p align="center">
   <picture>
