@@ -47,8 +47,8 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atifjaveid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifjaveid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atifjaveid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifjaveid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -56,22 +56,30 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 ## 🔥 Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=atifjaveid&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atifjaveid&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=atifjaveid&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atifjaveid&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/atifjaveid/atifjaveid/blob/output/github-snake-dark.svg)
+> ⚠️ The snake will appear after you run the **GitHub Action** (see setup steps below)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atifjaveid/atifjaveid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atifjaveid/atifjaveid/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atifjaveid/atifjaveid/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
