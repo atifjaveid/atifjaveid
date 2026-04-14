@@ -46,11 +46,7 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atifjaveid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifjaveid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atifjaveid&theme=tokyo-night&hide_border=true&area=true" />
