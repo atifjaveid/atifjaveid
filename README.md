@@ -62,7 +62,7 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="center">
   <picture>
