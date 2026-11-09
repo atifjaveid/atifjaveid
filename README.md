@@ -14,6 +14,8 @@ I'm a passionate **Flutter Mobile App Developer** building clean, high-performan
 
 With **6 months of hands-on experience**, I focus on writing well-structured code, crafting smooth user experiences, and integrating powerful backends to bring ideas to life.
 
+🌐 **Portfolio:** [atif-javeid-portfolio.web.app](https://atif-javeid-portfolio.web.app): case studies of my Flutter apps.
+
 ---
 
 ## 🚀 Currently Learning & Improving
@@ -76,6 +78,7 @@ With **6 months of hands-on experience**, I focus on writing well-structured cod
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-atif--javeid--portfolio.web.app-A31C1B?style=for-the-badge&logo=flutter&logoColor=white)](https://atif-javeid-portfolio.web.app)
 [![GitHub](https://img.shields.io/badge/GitHub-atifjaveid-black?style=for-the-badge&logo=github)](https://github.com/atifjaveid)
 
 ---
