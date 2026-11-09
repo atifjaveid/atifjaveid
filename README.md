@@ -12,16 +12,27 @@
 
 I'm a passionate **Flutter Mobile App Developer** building clean, high-performance cross-platform applications for **Android & iOS**.
 
-With **6 months of hands-on experience**, I focus on writing well-structured code, crafting smooth user experiences, and integrating powerful backends to bring ideas to life.
+I’ve built **15+ production & open-source projects**: 8 public repositories here, plus 7+ private client platforms, admin dashboards and mobile apps. I focus on well-structured code, smooth user experiences and solid Firebase and API integrations.
 
 🌐 **Portfolio:** [atif-javeid-portfolio.web.app](https://atif-javeid-portfolio.web.app): case studies of my Flutter apps.
+
+## 📂 Featured Projects
+
+| Project | What it is | Case study |
+|---|---|---|
+| [Zync](https://github.com/atifjaveid/connect-app) | Real-time chat app with Flutter & Firebase | [Read](https://atif-javeid-portfolio.web.app/work/connect-app) |
+| [Pulse Market](https://github.com/atifjaveid/pulse-market) | Stock & crypto tracker with background price alerts | [Read](https://atif-javeid-portfolio.web.app/work/pulse-market) |
+| [Vision Voice AI](https://github.com/atifjaveid/Vision-Voice-AI) | Text to speech, images and video | [Read](https://atif-javeid-portfolio.web.app/work/vision-voice-ai) |
+| [ToneCraft](https://github.com/atifjaveid/ToneCraft-Ringtones-Wallpapers-App) | Ringtones & wallpapers with Kotlin platform channels | [Read](https://atif-javeid-portfolio.web.app/work/tonecraft) |
+| [BMI & Health Tracker](https://github.com/atifjaveid/bmi_calculator) | Guided BMI setup with a custom arc gauge | [Read](https://atif-javeid-portfolio.web.app/work/bmi-health-tracker) |
+| [Maintenance Box](https://github.com/atifjaveid/flutter_login_signup_shared_preferences) | Login & signup flow | [Read](https://atif-javeid-portfolio.web.app/work/flutter-auth) |
 
 ---
 
 ## 🚀 Currently Learning & Improving
 
 - Flutter app architecture & clean code principles
-- State management with **GetX** & **Provider**
+- Going deeper on state management: **Provider**, **Riverpod** and **GetX**
 - Backend integration & REST APIs
 - **Firebase** services (Auth, Firestore, Cloud Messaging)
 - **Cloudinary** for media management
