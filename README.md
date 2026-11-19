@@ -14,18 +14,18 @@ I'm a passionate **Flutter Mobile App Developer** building clean, high-performan
 
 I’ve built **15+ production & open-source projects**: 8 public repositories here, plus 7+ private client platforms, admin dashboards and mobile apps. I focus on well-structured code, smooth user experiences and solid Firebase and API integrations.
 
-🌐 **Portfolio:** [atif-javeid-portfolio.web.app](https://atif-javeid-portfolio.web.app): case studies of my Flutter apps.
+🌐 **Portfolio:** [muhammadatifjaveid.dev](https://muhammadatifjaveid.dev): case studies of my Flutter apps.
 
 ## 📂 Featured Projects
 
 | Project | What it is | Case study |
 |---|---|---|
-| [Zync](https://github.com/atifjaveid/connect-app) | Real-time chat app with Flutter & Firebase | [Read](https://atif-javeid-portfolio.web.app/work/connect-app) |
-| [Pulse Market](https://github.com/atifjaveid/pulse-market) | Stock & crypto tracker with background price alerts | [Read](https://atif-javeid-portfolio.web.app/work/pulse-market) |
-| [Vision Voice AI](https://github.com/atifjaveid/Vision-Voice-AI) | Text to speech, images and video | [Read](https://atif-javeid-portfolio.web.app/work/vision-voice-ai) |
-| [ToneCraft](https://github.com/atifjaveid/ToneCraft-Ringtones-Wallpapers-App) | Ringtones & wallpapers with Kotlin platform channels | [Read](https://atif-javeid-portfolio.web.app/work/tonecraft) |
-| [BMI & Health Tracker](https://github.com/atifjaveid/bmi_calculator) | Guided BMI setup with a custom arc gauge | [Read](https://atif-javeid-portfolio.web.app/work/bmi-health-tracker) |
-| [Maintenance Box](https://github.com/atifjaveid/flutter_login_signup_shared_preferences) | Login & signup flow | [Read](https://atif-javeid-portfolio.web.app/work/flutter-auth) |
+| [Zync](https://github.com/atifjaveid/connect-app) | Real-time chat app with Flutter & Firebase | [Read](https://muhammadatifjaveid.dev/work/connect-app) |
+| [Pulse Market](https://github.com/atifjaveid/pulse-market) | Stock & crypto tracker with background price alerts | [Read](https://muhammadatifjaveid.dev/work/pulse-market) |
+| [Vision Voice AI](https://github.com/atifjaveid/Vision-Voice-AI) | Text to speech, images and video | [Read](https://muhammadatifjaveid.dev/work/vision-voice-ai) |
+| [ToneCraft](https://github.com/atifjaveid/ToneCraft-Ringtones-Wallpapers-App) | Ringtones & wallpapers with Kotlin platform channels | [Read](https://muhammadatifjaveid.dev/work/tonecraft) |
+| [BMI & Health Tracker](https://github.com/atifjaveid/bmi_calculator) | Guided BMI setup with a custom arc gauge | [Read](https://muhammadatifjaveid.dev/work/bmi-health-tracker) |
+| [Maintenance Box](https://github.com/atifjaveid/flutter_login_signup_shared_preferences) | Login & signup flow | [Read](https://muhammadatifjaveid.dev/work/flutter-auth) |
 
 ---
 
@@ -89,7 +89,7 @@ I’ve built **15+ production & open-source projects**: 8 public repositories he
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-atif--javeid--portfolio.web.app-A31C1B?style=for-the-badge&logo=flutter&logoColor=white)](https://atif-javeid-portfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadatifjaveid.dev-A31C1B?style=for-the-badge&logo=flutter&logoColor=white)](https://muhammadatifjaveid.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-atifjaveid-black?style=for-the-badge&logo=github)](https://github.com/atifjaveid)
 
 ---
