@@ -90,7 +90,7 @@ I’ve built **15+ production & open-source projects**: 8 public repositories he
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadatifjaveid.dev-A31C1B?style=for-the-badge&logo=flutter&logoColor=white)](https://muhammadatifjaveid.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-atifjaveid-black?style=for-the-badge&logo=github)](https://github.com/atifjaveid)
+
 
 ---
 
